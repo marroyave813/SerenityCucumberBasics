@@ -1,0 +1,4 @@
+pages\BrandCarPage.class
+pages\NewCarsPage.class
+steps\CarWaleSteps.class
+pages\HomePage.class
